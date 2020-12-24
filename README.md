@@ -1,5 +1,6 @@
 ### Here is `Shaymin`
-
+- 🔭 I’m currently interested in Computer Systems & Artificial Intelligence.
+- 🌱 I’m currently learning Computer Science.
 <!--
 **rain-sumire/rain-sumire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
