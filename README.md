@@ -1,4 +1,4 @@
-### Here is ****rain-sumire****
+### Here is ****Shaymin****
 
 <!--
 **rain-sumire/rain-sumire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
